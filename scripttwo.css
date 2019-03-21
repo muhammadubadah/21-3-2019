@@ -1,0 +1,27 @@
+/* .container{
+    display: flex;
+    height: 80%;
+}
+.container div{
+    flex-basis: 200px;
+}
+body{
+    height:100vh;
+}
+#ab {
+    flex-basis: 120px;
+}
+#bc {
+    flex-basis: 150px;
+}
+#ca {
+    flex-basis: 100px;0 */
+
+@media screen and (min-width:400px) and (max-width:600px){
+    .med{
+        height:200px;
+        width:60px;
+        background-color: yellow;
+        margin:200px;
+    }
+}
